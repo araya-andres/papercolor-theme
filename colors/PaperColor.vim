@@ -1928,3 +1928,4 @@ call s:apply_highlightings()
 " Cheers!
 " vim: fdm=marker ff=unix
 
+highlight LineNr term=bold cterm=NONE ctermfg=darkgrey ctermbg=black gui=NONE guifg=darkgrey guibg=NONE
